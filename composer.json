@@ -1,0 +1,12 @@
+{
+    "name": "cda1/test_mail_php",
+    "authors": [
+        {
+            "name": "greg",
+            "email": "greg.verissimo@gmail.com"
+        }
+    ],
+    "require": {
+        "phpmailer/phpmailer": "^6.1"
+    }
+}
